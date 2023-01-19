@@ -1,7 +1,4 @@
 # TouristReviewClassification
-
-## Introduction
-
 Welcome to the Tourist Review Application! This application is designed to help users find the best destinations to visit by analyzing the sentiment of reviews and ranking destinations based on the consensus.
 
 ## Technical Details
